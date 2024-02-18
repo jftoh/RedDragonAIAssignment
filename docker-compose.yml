@@ -1,0 +1,5 @@
+services:
+  speechtotext-fastapi:
+    build: .
+    ports:
+      - "4000:80"

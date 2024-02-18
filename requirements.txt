@@ -1,7 +1,8 @@
-accelerate
+datasets[audio]
 fastapi
 pydantic
-scipy
+sentencepiece
+soundfile
 transformers
 torch
 uvicorn
