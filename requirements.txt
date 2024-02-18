@@ -1,1 +1,7 @@
+accelerate
+fastapi
+pydantic
+scipy
+transformers
+torch
 uvicorn
